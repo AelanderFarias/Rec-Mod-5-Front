@@ -1,0 +1,33 @@
+.titulo-mais-visitados {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: 900;
+}
+
+.homeIntro{
+    text-align: justify;
+}
+
+.price {
+    color: rgb(5, 5, 121);
+    text-align: center;
+    margin-top: 75px;
+    border-bottom: solid 4px transparent;
+}
+
+.price:hover {
+    border-bottom: solid 4px #0C45C5;
+}
+
+.linkPrice {
+    text-decoration: none;
+}
+
+#slider .container .row p {
+    text-align: justify;
+}
+
+#slider .container .row h6 {
+    text-align: center;
+}

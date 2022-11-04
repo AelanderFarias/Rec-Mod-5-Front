@@ -1,0 +1,33 @@
+#header {
+    width: 100%;
+    background-color: transparent;
+    transition: ease-out 0.2s;
+}
+
+#header .navbar-collapse {
+    width: auto;
+}
+
+#header .img-fluid {
+    width: 7rem;
+    height: 5rem;
+}
+
+#header .nav-link {
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-left: 0;
+    padding-right: 0;
+    color: black;
+    border-bottom: solid 4px transparent;
+}
+
+#header .nav-link:hover {
+    border-bottom: solid 4px #fff;
+    opacity: 0.5;
+}
+
+.iconeNavBar {
+    width: 35px;
+    height: 35px;
+}

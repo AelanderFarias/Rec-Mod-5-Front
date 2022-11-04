@@ -1,0 +1,47 @@
+@media (min-width: 992px) {
+  #header .nav-link {
+      margin-left: 15px;
+      margin-right: 15px;
+  }
+}
+
+
+body,
+html {
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.containerBarra {
+  background-color: #0c44c559;
+  padding: 50px;
+  margin-bottom: 25px;
+  margin-top: 20px;
+}
+
+.containerBarra h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  text-align: center;
+}
+
+/* ul {
+
+ list-style-image: url(imagens/liSeta.png); 
+  list-style-position: inside;
+} */
+
+.copy {
+  text-align: center;
+}
+
+hr {
+  margin-top: 50px;
+}
